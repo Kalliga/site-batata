@@ -1,0 +1,9 @@
+:root {
+    --cor-primaria: #F0E3CA;
+    --cor-secundaria: #503C3C;
+    --cor-terciaria: #FF8303 ;
+    --cor-hover: #E3D0B3;
+
+    --fonte-primaria: "Concert One", sans-serif;
+    --fonte-secundaria: "Mitr", sans-serif;
+}
